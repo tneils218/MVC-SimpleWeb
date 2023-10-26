@@ -1,0 +1,28 @@
+@model LoginViewModel
+@{
+    ViewData["Title"] = "Trang đăng nhập";
+    Context.Request.Query.TryGetValue("returnUrl", out var returnUrlValue);
+}
+
+<h3 class="text-center">Login</h3>
+<form asp-action="Login" method="POST" asp-route-returnUrl="@returnUrlValue" class="d-flex justify-content-center">
+    <div class="row col-6">
+        <div class="mb-3">
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" placeholder="Enter your email">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Password"></label>
+            <input asp-for="Password" class="form-control" placeholder="Enter your password">
+        </div>
+        <div class="mb-3">
+            <input asp-for="RememberMe" class="form-check-input">
+            <label class="form-check-label" asp-for="RememberMe"></label>
+        </div>
+        <div class="mb-3">
+            <button class="btn btn-primary">
+                Login
+            </button>
+        </div>
+    </div>
+</form>
