@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s/LAdKul9Y2p6HOgq3aqlcuk8HgG4CEnTGRX6OlOf4TlsXL6YnyLjTWsY8ZxzZUCYFkOIztOJOwe1e6oos1PSA==",
+  "dgSpecHash": "84owqggXhF+28gV23VYuyrTQZEQheLvYTGkZ+P4rZ1/Ql2i4/vaJZX2Dz36sHnKKtA+4e0InpdLDGFe6UKzyWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\SimpleWeb.csproj",
+  "projectFilePath": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\SimpleWeb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

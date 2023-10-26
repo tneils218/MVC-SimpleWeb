@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SimpleWeb
 build_property.RootNamespace = SimpleWeb
-build_property.ProjectDir = C:\Users\trant\OneDrive\Desktop\sources\SimpleWeb\
+build_property.ProjectDir = C:\Users\trant\OneDrive\Desktop\MVC-SimpleWeb\SimpleWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\trant\OneDrive\Desktop\sources\SimpleWeb
+build_property.MSBuildProjectDirectory = C:\Users\trant\OneDrive\Desktop\MVC-SimpleWeb\SimpleWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/About.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/Account/Login.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/Blog.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/Cart.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/Cart/Index.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/Checkout.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/Contact.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/Home/Index.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/Services.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/shared/_Layout.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncc2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/Shop.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/Thankyou.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/Thankyou.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhhbmt5b3UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/_ViewImports.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/trant/OneDrive/Desktop/sources/SimpleWeb/Views/_ViewStart.cshtml]
+[C:/Users/trant/OneDrive/Desktop/MVC-SimpleWeb/SimpleWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

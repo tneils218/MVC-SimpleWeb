@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\SimpleWeb.csproj",
+      "projectUniqueName": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\SimpleWeb.csproj",
       "projectName": "SimpleWeb",
-      "projectPath": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\SimpleWeb.csproj",
+      "projectPath": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\SimpleWeb.csproj",
       "packagesPath": "C:\\Users\\trant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\obj\\",
+      "outputPath": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trant\\AppData\\Roaming\\NuGet\\NuGet.Config",
