@@ -1,167 +1,167 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\README.txt",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\README.txt",
       "PackagePath": "staticwebassets\\README.txt"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\css\\tiny-slider.css",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\css\\tiny-slider.css",
       "PackagePath": "staticwebassets\\css\\tiny-slider.css"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\bag.svg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\bag.svg",
       "PackagePath": "staticwebassets\\images\\bag.svg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\bowl-2.png",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\bowl-2.png",
       "PackagePath": "staticwebassets\\images\\bowl-2.png"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\bowl-3.png",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\bowl-3.png",
       "PackagePath": "staticwebassets\\images\\bowl-3.png"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\cart.svg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\cart.svg",
       "PackagePath": "staticwebassets\\images\\cart.svg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\couch.png",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\couch.png",
       "PackagePath": "staticwebassets\\images\\couch.png"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\cross.svg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\cross.svg",
       "PackagePath": "staticwebassets\\images\\cross.svg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\dots-green.svg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\dots-green.svg",
       "PackagePath": "staticwebassets\\images\\dots-green.svg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\dots-light.svg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\dots-light.svg",
       "PackagePath": "staticwebassets\\images\\dots-light.svg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\dots-yellow.svg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\dots-yellow.svg",
       "PackagePath": "staticwebassets\\images\\dots-yellow.svg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\envelope-outline.svg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\envelope-outline.svg",
       "PackagePath": "staticwebassets\\images\\envelope-outline.svg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\img-grid-1.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\img-grid-1.jpg",
       "PackagePath": "staticwebassets\\images\\img-grid-1.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\img-grid-2.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\img-grid-2.jpg",
       "PackagePath": "staticwebassets\\images\\img-grid-2.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\img-grid-3.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\img-grid-3.jpg",
       "PackagePath": "staticwebassets\\images\\img-grid-3.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person-1.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person-1.jpg",
       "PackagePath": "staticwebassets\\images\\person-1.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person-1.png",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person-1.png",
       "PackagePath": "staticwebassets\\images\\person-1.png"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person_1.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person_1.jpg",
       "PackagePath": "staticwebassets\\images\\person_1.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person_2.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person_2.jpg",
       "PackagePath": "staticwebassets\\images\\person_2.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person_3.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person_3.jpg",
       "PackagePath": "staticwebassets\\images\\person_3.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person_4.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person_4.jpg",
       "PackagePath": "staticwebassets\\images\\person_4.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\post-1.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\post-1.jpg",
       "PackagePath": "staticwebassets\\images\\post-1.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\post-2.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\post-2.jpg",
       "PackagePath": "staticwebassets\\images\\post-2.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\post-3.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\post-3.jpg",
       "PackagePath": "staticwebassets\\images\\post-3.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\product-1.png",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\product-1.png",
       "PackagePath": "staticwebassets\\images\\product-1.png"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\product-2.png",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\product-2.png",
       "PackagePath": "staticwebassets\\images\\product-2.png"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\product-3.png",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\product-3.png",
       "PackagePath": "staticwebassets\\images\\product-3.png"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\return.svg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\return.svg",
       "PackagePath": "staticwebassets\\images\\return.svg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\sofa.png",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\sofa.png",
       "PackagePath": "staticwebassets\\images\\sofa.png"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\support.svg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\support.svg",
       "PackagePath": "staticwebassets\\images\\support.svg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\truck.svg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\truck.svg",
       "PackagePath": "staticwebassets\\images\\truck.svg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\user.svg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\user.svg",
       "PackagePath": "staticwebassets\\images\\user.svg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\why-choose-us-img.jpg",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\why-choose-us-img.jpg",
       "PackagePath": "staticwebassets\\images\\why-choose-us-img.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\js\\custom.js",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\js\\tiny-slider.js",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\js\\tiny-slider.js",
       "PackagePath": "staticwebassets\\js\\tiny-slider.js"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\prepros-6.config",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\prepros-6.config",
       "PackagePath": "staticwebassets\\prepros-6.config"
     },
     {
-      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\scss\\style.scss",
+      "Id": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\scss\\style.scss",
       "PackagePath": "staticwebassets\\scss\\style.scss"
     },
     {

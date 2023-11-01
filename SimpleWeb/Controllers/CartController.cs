@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace SimpleWeb.Controllers;
 
-[Authorize]
+[Authorize(AuthenticationSchemes = "Cookie")]
 public class CartController : Controller
 {
     public IActionResult Index()

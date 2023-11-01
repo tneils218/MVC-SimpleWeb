@@ -1,10 +1,10 @@
-using Microsoft.AspNetCore.Authentication.Cookies;
+﻿using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 var services = builder.Services;
 services.AddControllersWithViews();
-services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-.AddCookie(options =>
+services.AddAuthentication("Cookie")
+.AddCookie("Cookie", options =>
 {
     options.LoginPath = "/Account/Login";
     options.Cookie.Name = "CookieAuth";
@@ -13,9 +13,9 @@ var app = builder.Build();
 
 app.UseStaticFiles();
 
-app.UseAuthentication();
+app.UseAuthentication();  // xác thực 
 
-app.UseAuthorization();
+app.UseAuthorization(); 
 
 app.MapControllerRoute(
     name: "Default",

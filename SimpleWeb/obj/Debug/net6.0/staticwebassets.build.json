@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hUyLUZYwFbjqRf1hoRn7holqubMHKDb6KbkmyHg6g4Y=",
+  "Hash": "uEkDLbYKuS0fS2RPqlimF8NZFWZWhxATB+LTWZbI0PY=",
   "Source": "SimpleWeb",
   "BasePath": "_content/SimpleWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SimpleWeb\\wwwroot",
       "Source": "SimpleWeb",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\css\\style.css",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\css\\tiny-slider.css",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\css\\tiny-slider.css",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "css/tiny-slider.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\tiny-slider.css"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\favicon.png",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\bag.svg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\bag.svg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/bag.svg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bag.svg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\bowl-2.png",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\bowl-2.png",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/bowl-2.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bowl-2.png"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\bowl-3.png",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\bowl-3.png",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/bowl-3.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bowl-3.png"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\cart.svg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\cart.svg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/cart.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cart.svg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\couch.png",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\couch.png",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/couch.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\couch.png"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\cross.svg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\cross.svg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/cross.svg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cross.svg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\dots-green.svg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\dots-green.svg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/dots-green.svg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dots-green.svg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\dots-light.svg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\dots-light.svg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/dots-light.svg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dots-light.svg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\dots-yellow.svg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\dots-yellow.svg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/dots-yellow.svg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dots-yellow.svg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\envelope-outline.svg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\envelope-outline.svg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/envelope-outline.svg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\envelope-outline.svg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\img-grid-1.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\img-grid-1.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/img-grid-1.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-grid-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\img-grid-2.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\img-grid-2.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/img-grid-2.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-grid-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\img-grid-3.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\img-grid-3.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/img-grid-3.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\img-grid-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person_1.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person_1.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/person_1.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\person_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person_2.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person_2.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/person_2.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\person_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person_3.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person_3.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/person_3.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\person_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person_4.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person_4.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/person_4.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\person_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person-1.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person-1.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/person-1.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\person-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\person-1.png",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\person-1.png",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/person-1.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\person-1.png"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\post-1.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\post-1.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/post-1.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\post-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\post-2.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\post-2.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/post-2.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\post-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\post-3.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\post-3.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/post-3.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\post-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\product-1.png",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\product-1.png",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/product-1.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product-1.png"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\product-2.png",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\product-2.png",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/product-2.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product-2.png"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\product-3.png",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\product-3.png",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/product-3.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product-3.png"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\return.svg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\return.svg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/return.svg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\return.svg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\sofa.png",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\sofa.png",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/sofa.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sofa.png"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\support.svg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\support.svg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/support.svg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\support.svg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\truck.svg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\truck.svg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/truck.svg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\truck.svg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\user.svg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\user.svg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/user.svg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\user.svg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\images\\why-choose-us-img.jpg",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\images\\why-choose-us-img.jpg",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "images/why-choose-us-img.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\why-choose-us-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\js\\custom.js",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\js\\tiny-slider.js",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\js\\tiny-slider.js",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "js/tiny-slider.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\js\\tiny-slider.js"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\prepros-6.config",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\prepros-6.config",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "prepros-6.config",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\prepros-6.config"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\README.txt",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\README.txt",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "README.txt",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\README.txt"
     },
     {
-      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\scss\\style.scss",
+      "Identity": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\scss\\style.scss",
       "SourceId": "SimpleWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\sources\\SimpleWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trant\\OneDrive\\Desktop\\MVC-SimpleWeb\\SimpleWeb\\wwwroot\\",
       "BasePath": "_content/SimpleWeb",
       "RelativePath": "scss/style.scss",
       "AssetKind": "All",
